@@ -1,2 +1,4 @@
-# python-scripts
-This is a repo will consist of some common easy to use python scripts for different purposes
+# Python Scripts
+
+This repo was built with the purpose to hold the python scripts being written 
+for my personal use.
